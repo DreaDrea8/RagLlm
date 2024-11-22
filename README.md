@@ -22,8 +22,6 @@ Cette commande crée un environnement virtuel, installe toutes les dépendances 
 cat petitprince.txt
 ```
 
-Profitez d'un café pendant que l'installation se termine, cela peut prendre un certain temps ☕
-
 **Exécuter le projet :**
 
 ```bash
@@ -70,6 +68,6 @@ Cette commande supprime le fichier `petitprince.txt` et nettoie l'environnement 
 
 ---
 
-## La question poser a ete
+## La question posée a été
 
 Comment le petit prince en vient-il à comprendre que sa rose est unique ?
