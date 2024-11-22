@@ -22,7 +22,7 @@ Cette commande crée un environnement virtuel, installe toutes les dépendances 
 cat petitprince.txt
 ```
 
-Profitez d'un café pendant que l'installation se termine, cela peut prendre un certain temps ☕
+
 
 **Exécuter le projet :**
 
