@@ -1,5 +1,20 @@
 # Projet AI RAG
 
+## La consigne de l'exercice était
+
+En utilisant ollama (ou autre de votre choix) faire un projet GI de chat en utilisant le technique RAG. Les docuements doivent venir de cloud (de votre choix). Il faut pouvoir montrer la demo avec la meme question : 
+sans RAG et avec RAG
+En changamant un parametre de LLM (surtout temperature)
+Rendu le lien git (attention au bonne pratique de git branch, commit, commit msg, etc)
+
+---
+
+## La question posée a été
+
+Comment le petit prince en vient-il à comprendre que sa rose est unique ?
+
+---
+
 **Langage utilisé** : Python
 
 **RAG (Retriever-Augmented Generation)** est une méthode qui permet d'améliorer les capacités des modèles de langage (LLM) en combinant leur compréhension du langage avec une récupération ciblée d'informations pertinentes provenant de sources externes, souvent en utilisant des embeddings dans des bases de données vectorielles. Cela conduit à des applications alimentées par l'IA plus précises, fiables et polyvalentes.
@@ -66,17 +81,3 @@ Cette commande supprime le fichier `petitprince.txt` et nettoie l'environnement 
 
 3. **Réglage de la température** : Vous pouvez ajuster le paramètre `temperature` dans la configuration du modèle pour contrôler la créativité des réponses. Des valeurs faibles (par exemple, 0.1) rendent les réponses plus déterministes, tandis que des valeurs plus élevées (par exemple, 0.7) donnent des réponses plus créatives.
 
----
-
-## La consigne de l'exercice était
-
-En utilisant ollama (ou autre de votre choix) faire un projet GI de chat en utilisant le technique RAG. Les docuements doivent venir de cloud (de votre choix). Il faut pouvoir montrer la demo avec la meme question : 
-sans RAG et avec RAG
-En changamant un parametre de LLM (surtout temperature)
-Rendu le lien git (attention au bonne pratique de git branch, commit, commit msg, etc)
-
----
-
-## La question posée a été
-
-Comment le petit prince en vient-il à comprendre que sa rose est unique ?
